@@ -1,0 +1,5 @@
+1 nos situamos en la carpeta en que se desee tener el repositorio
+2 git clone (enlace del repositorio)
+3 git add . (se agrega todo lo que este en la carpeta que aun no este en el repositorio)
+4 git commit -m "Mensaje obligatorio"(acualizacion expresada lo mas explicito posible)
+5 git push origin master (subir commit a git)
